@@ -7,7 +7,7 @@ import App from './App.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter basename="/botany-123">
+    <BrowserRouter basename="/Botany-123">
       <App />
     </BrowserRouter>
   </StrictMode>,
